@@ -1,0 +1,7 @@
+.bundle/
+
+# Ignore RubyMine IDE files
+.idea/
+
+Gemfile.lock
+

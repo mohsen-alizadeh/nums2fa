@@ -1,0 +1,24 @@
+= Nums2fa
+
+nums2fa is simple gem to convert English numbers and Persian numbers together.
+
+== install
+
+* put nums2fa in Gemfile
+
+    gem 'nums2fa'
+
+* run bunle install
+
+    bundle install
+
+
+== Usages
+
+* Convert English numbers to Persian Numbers
+
+    "1368-11-09".nums2fa   # => '۱۳۶۸-۱۱-۰۹'
+
+* Convert Persian numbers to English Numbers
+
+    "۱۳۶۸-۱۱-۰۹".nums2en    # => "1368-11-09"
