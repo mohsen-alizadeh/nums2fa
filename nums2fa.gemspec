@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.summary     = 'nums2fa'
   s.description = 'Convert Persian numbers to English numbers and vice versa.'
   s.license     = 'MIT'
-  s.files = Dir['lib/**/*', 'MIT-LICENSE', 'README.rdoc']
+  s.files       = Dir['lib/**/*', 'MIT-LICENSE', 'README.rdoc']
 end
